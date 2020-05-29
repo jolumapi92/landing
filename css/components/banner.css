@@ -28,6 +28,12 @@
 .banner a {
   text-decoration: none;
   color: white;
+  opacity: 1;
+}
+
+.banner a:hover {
+  text-decoration: none;
+  opacity: 0.4;
 }
 
 .banner-container {
